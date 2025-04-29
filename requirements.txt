@@ -2,3 +2,4 @@ torch==2.7.0
 torchvision==0.22.0
 neuraloperator==1.0.2
 jaxtyping==0.3.2
+lightning==2.5.1
